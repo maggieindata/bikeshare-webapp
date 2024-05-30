@@ -70,5 +70,4 @@ traitlets @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_
 typing_extensions==4.12.0
 tzdata==2024.1
 urllib3==2.2.1
-wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 xyzservices==2024.4.0
