@@ -1,4 +1,4 @@
-name: clicked-demo
+name: bikeshare
 channels:
   - defaults
   - conda-forge
