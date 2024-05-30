@@ -1,5 +1,4 @@
 altair==5.3.0
-appnope @ file:///Users/ktietz/ci_310/appnope_1643965056645/work
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 attrs==23.2.0
 blinker==1.8.2
