@@ -69,6 +69,7 @@ dependencies:
   - xz=5.2.5=h1a28f6b_1
   - zeromq=4.3.4=hc377ac9_0
   - zlib=1.2.12=h5a0b063_3
+  - folium
   - pip:
       - altair==5.3.0
       - attrs==23.2.0
